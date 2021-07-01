@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-bio-21fdd": {
+      "hosting": {
+        "firebio": [
+          "fir-bio-21fdd"
+        ]
+      }
+    }
+  }
+}
